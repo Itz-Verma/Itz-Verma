@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://kaggle.com/https://www.kaggle.com/theprinceverma" target="blank">
+<a href="https://www.kaggle.com/theprinceverma" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"         alt="https://www.kaggle.com/theprinceverma" height="30" width="40" />
 </a>
   
